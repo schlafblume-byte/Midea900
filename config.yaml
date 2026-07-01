@@ -43,14 +43,14 @@ products:
       - "4048164122301"
     title_must_include:
        - "portasplit cool"
-     title_must_exclude: []
+    title_must_exclude: []
      max_price: 800.0
      allow_used: true
      urls:
-  idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/210261557_-portasplit-cool-2-35kw-midea.html"
-  amazon: "https://www.amazon.de/Midea-Portasplit-Cool-Klimaanlage-Silent-Modus/dp/B0GXDWTFR5"
-  mediamarkt: "https://www.mediamarkt.de/de/product/_midea-portasplit-cool-mobile-split-klimaanlage-8000btu-mobile-split-klimaanlage-weiss-max-raumgrosse-28-m-eek-a-179209322.html"
-  geizhals: "https://geizhals.de/midea-comfee-portasplit-cool-mobile-split-klimaanlage-10002696-a3789839.html"
+    idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/210261557_-portasplit-cool-2-35kw-midea.html"
+    amazon: "https://www.amazon.de/Midea-Portasplit-Cool-Klimaanlage-Silent-Modus/dp/B0GXDWTFR5"
+    mediamarkt: "https://www.mediamarkt.de/de/product/_midea-portasplit-cool-mobile-split-klimaanlage-8000btu-mobile-split-klimaanlage-weiss-max-raumgrosse-28-m-eek-a-179209322.html"
+    geizhals: "https://geizhals.de/midea-comfee-portasplit-cool-mobile-split-klimaanlage-10002696-a3789839.html"
 
 location:
   postal_code: "48268"
