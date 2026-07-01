@@ -60,7 +60,7 @@ location:
 
 # Quellen ein-/ausschalten. Schlüssel entsprechen den Adapter-Namen.
 sources:
-    geizhals: false
+  geizhals: false
   idealo: false
   mediamarkt: true
   saturn: false
