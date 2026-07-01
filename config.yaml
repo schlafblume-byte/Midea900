@@ -38,7 +38,17 @@ products:
       # nicht verfügbar" (Vorbesteller) – kein EAN aus der Seite ablesbar,
       # daher matcht hier primär der Titel ("portasplit").
       greensun: "https://www.greensun-germany.com/MIDEA-PortaSplit-35-kW-Mobile-Split-Klimaanlage-Kuehlen-Heizen-ohne-feste-Installation"
-
+ 
+  # - name: "Midea Portasplit "
+  #   eans:
+  #     - "0000000000000"
+  #   title_must_include:
+  #     - "beispiel"
+  #   title_must_exclude: []
+  #   max_price: 900.0
+  #   allow_used: false
+  #   urls:
+  #     idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
   # Weiteres Gerät? Einfach einen zweiten Eintrag nach demselben Muster anlegen:
   # - name: "Beispiel-Klimagerät"
   #   eans:
@@ -52,8 +62,8 @@ products:
   #     idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
 
 location:
-  postal_code: "74321"
-  city: "Bietigheim-Bissingen"
+  postal_code: "48268"
+  city: "Greven"
   latitude: 48.9543
   longitude: 9.1316
   radius_km: 25  # Umkreis für Filial-Verfügbarkeit
