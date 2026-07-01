@@ -39,7 +39,7 @@ products:
       # daher matcht hier primär der Titel ("portasplit").
       greensun: "https://www.greensun-germany.com/MIDEA-PortaSplit-35-kW-Mobile-Split-Klimaanlage-Kuehlen-Heizen-ohne-feste-Installation"
  
-  # - name: "Midea Portasplit "
+  # - name: "Midea PortaSplit 8000 BTU"
   #   eans:
   #     - "0000000000000"
   #   title_must_include:
@@ -72,10 +72,10 @@ location:
 sources:
   geizhals: false
   idealo: false
-  mediamarkt: true
+  mediamarkt: false
   saturn: false
-  obi: true
-  bauhaus: true
+  obi: false
+  bauhaus: false
   hornbach: false
   amazon: false
   greensun: false
