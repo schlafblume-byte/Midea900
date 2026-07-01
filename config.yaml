@@ -55,8 +55,8 @@ products:
 location:
   postal_code: "48268"
   city: "Greven"
-  latitude: 48.9543
-  longitude: 9.1316
+  latitude: 52.0965
+  longitude: 7.6171
   radius_km: 60  # Umkreis für Filial-Verfügbarkeit
 
 # Quellen ein-/ausschalten. Schlüssel entsprechen den Adapter-Namen.
