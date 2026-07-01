@@ -43,9 +43,9 @@ products:
   #   eans:
   #     - "4048164122301"
   #   title_must_include:
-  #     - "beispiel"
+  #     - "portasplit cool"
   #   title_must_exclude: []
-  #   max_price: 900.0
+  #   max_price: 800.0
   #   allow_used: true
   #   urls:
   idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
