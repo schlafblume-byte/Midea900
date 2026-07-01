@@ -39,27 +39,17 @@ products:
       # daher matcht hier primär der Titel ("portasplit").
       greensun: "https://www.greensun-germany.com/MIDEA-PortaSplit-35-kW-Mobile-Split-Klimaanlage-Kuehlen-Heizen-ohne-feste-Installation"
  
-  # - name: "Midea PortaSplit 8000 BTU"
+  # - name: "Midea PortaSplit Cool 8000 BTU"
   #   eans:
-  #     - "0000000000000"
+  #     - "4048164122301"
   #   title_must_include:
   #     - "beispiel"
   #   title_must_exclude: []
   #   max_price: 900.0
-  #   allow_used: false
+  #   allow_used: true
   #   urls:
-  #     idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
-  # Weiteres Gerät? Einfach einen zweiten Eintrag nach demselben Muster anlegen:
-  # - name: "Beispiel-Klimagerät"
-  #   eans:
-  #     - "0000000000000"
-  #   title_must_include:
-  #     - "beispiel"
-  #   title_must_exclude: []
-  #   max_price: 600.0
-  #   allow_used: false
-  #   urls:
-  #     idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
+  idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
+  amazon: "https://www.amazon.de/Midea-Portasplit-Cool-Klimaanlage-Silent-Modus/dp/B0GXDWTFR5"
 
 location:
   postal_code: "48268"
