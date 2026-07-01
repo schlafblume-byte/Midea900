@@ -51,6 +51,8 @@ products:
       amazon: "https://www.amazon.de/Midea-Portasplit-Cool-Klimaanlage-Silent-Modus/dp/B0GXDWTFR5"
       mediamarkt: "https://www.mediamarkt.de/de/product/_midea-portasplit-cool-mobile-split-klimaanlage-8000btu-mobile-split-klimaanlage-weiss-max-raumgrosse-28-m-eek-a-179209322.html"
       geizhals: "https://geizhals.de/midea-comfee-portasplit-cool-mobile-split-klimaanlage-10002696-a3789839.html"
+      bauhaus : "https://www.bauhaus.info/klimaanlagen/midea-klimasplitgeraet-portasplit-cool-8000-btu/p/33946696"
+      obi : "https://www.obi.de/p/2191158911022/midea-split-klimaanlage-portasplit-cool-mobil-weissgrau"
 location:
   postal_code: "48268"
   city: "Greven"
